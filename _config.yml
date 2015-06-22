@@ -1,6 +1,6 @@
 # general configuration
 url: http://statspro.club
-baseurl: '/app-landing-page'
+baseurl: '/landing-page'
 
 # app configuration
 app:
