@@ -34,8 +34,8 @@ a:hover {
   border-radius: 19px;
   -moz-border-radius: 19px; }
 
-/*** Author ***/
-.author-container h1 {
+/*** Title ***/
+.title-container h1 {
   font-size: 2.8em;
   margin-top: 0;
   margin-bottom: 0;
